@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Starwars</string>
+
+    <string name="please_wait">Please Wait</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="name">Name</string>
+    <string name="sort_by">Sort By</string>
+    <string name="favourite">Favourite</string>
+    <string name="search">Search</string>
+    <string name="search_people">Search People</string>
+    <string name="movies">Movies</string>
+    <string name="person_detail">Person Detail</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="homeworld">Homeworld</string>
+
 </resources>
